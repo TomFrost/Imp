@@ -52,14 +52,15 @@ Editing that in the future is the same as editing the default config:
 
 Support
 --------
-Informal support for Support for Imp is currently offered on
+Informal support for Imp is currently offered on
 **[webdevRefinery.com](http://www.webdevrefinery.com)**.  Ask away in the Java forum!
 
 Legal
 ------
 This development release of Imp does not have a fancy official license.  In lieu of that, Imp is
-free for personal, private, non-profit use.  Any usage that does not meet those three stipulations
-requires my personal written permission.
+free for personal, private, non-profit use.  Any usage of this code (including creation and usage of
+derivative works, where "usage" also includes selling any part or all of the code) that does not meet those
+three stipulations requires my personal written permission.
 
 Credits
 --------
